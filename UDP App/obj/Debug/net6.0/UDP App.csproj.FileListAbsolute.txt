@@ -1,0 +1,15 @@
+D:\Docs\UTM Folder\Anul 3\PR\Laborator 2\UDP App\UDP App\bin\Debug\net6.0\UDP App.exe
+D:\Docs\UTM Folder\Anul 3\PR\Laborator 2\UDP App\UDP App\bin\Debug\net6.0\UDP App.deps.json
+D:\Docs\UTM Folder\Anul 3\PR\Laborator 2\UDP App\UDP App\bin\Debug\net6.0\UDP App.runtimeconfig.json
+D:\Docs\UTM Folder\Anul 3\PR\Laborator 2\UDP App\UDP App\bin\Debug\net6.0\UDP App.dll
+D:\Docs\UTM Folder\Anul 3\PR\Laborator 2\UDP App\UDP App\bin\Debug\net6.0\UDP App.pdb
+D:\Docs\UTM Folder\Anul 3\PR\Laborator 2\UDP App\UDP App\obj\Debug\net6.0\UDP App.csproj.AssemblyReference.cache
+D:\Docs\UTM Folder\Anul 3\PR\Laborator 2\UDP App\UDP App\obj\Debug\net6.0\UDP App.GeneratedMSBuildEditorConfig.editorconfig
+D:\Docs\UTM Folder\Anul 3\PR\Laborator 2\UDP App\UDP App\obj\Debug\net6.0\UDP App.AssemblyInfoInputs.cache
+D:\Docs\UTM Folder\Anul 3\PR\Laborator 2\UDP App\UDP App\obj\Debug\net6.0\UDP App.AssemblyInfo.cs
+D:\Docs\UTM Folder\Anul 3\PR\Laborator 2\UDP App\UDP App\obj\Debug\net6.0\UDP App.csproj.CoreCompileInputs.cache
+D:\Docs\UTM Folder\Anul 3\PR\Laborator 2\UDP App\UDP App\obj\Debug\net6.0\UDP App.dll
+D:\Docs\UTM Folder\Anul 3\PR\Laborator 2\UDP App\UDP App\obj\Debug\net6.0\refint\UDP App.dll
+D:\Docs\UTM Folder\Anul 3\PR\Laborator 2\UDP App\UDP App\obj\Debug\net6.0\UDP App.pdb
+D:\Docs\UTM Folder\Anul 3\PR\Laborator 2\UDP App\UDP App\obj\Debug\net6.0\UDP App.genruntimeconfig.cache
+D:\Docs\UTM Folder\Anul 3\PR\Laborator 2\UDP App\UDP App\obj\Debug\net6.0\ref\UDP App.dll
